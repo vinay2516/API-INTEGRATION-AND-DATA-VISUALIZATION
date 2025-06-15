@@ -98,5 +98,8 @@ MENTOR: NEELA SANTHOSH
 # ✅ OUTPUT / DELIVERABLES
 # ----------------------------
 
+Temperature in Davanagere: 22.58°C
+Humidity in Davanagere: 93%
+
 ![Image](https://github.com/user-attachments/assets/b73c6284-c480-4611-88f0-8376aeea036c)
 ![Image](https://github.com/user-attachments/assets/f9a599d3-51db-46b9-bb08-beb25b4c1b71)
